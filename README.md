@@ -18,16 +18,15 @@
   
 ## 💻 Estou Aprendendo
 
-<br>
-<div style="display: inline_block"><br>
-<img align="center" height="30" width="40" src='https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg'>
-<img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
-<img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
-<img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
 
+<div style="display: inline_block"><br>
+<img align="center" height="40" width="40" src='https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg'>
+<img align="center" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
+<img align="center" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
+<img align="center" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
 </div>
 
-
+<br>
 <br>
 
 <div>
