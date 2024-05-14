@@ -1,4 +1,3 @@
-![image](https://github.com/AlissonCogo/AlissonCogo/assets/84975011/0335f71c-1fcb-46e1-b380-72c69a5cf3c4)### Hi there 👋
 
 <!--
   # Olá, me chamo Alisson ! 
@@ -14,6 +13,8 @@
 <a href="https://instagram.com/bufft_alisson/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alisson-buffetti/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
 <div>
 <a href="https://github.com/AlissonCogo">
