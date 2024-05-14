@@ -32,14 +32,6 @@
 
 <br>
 
-**
-<img src = "https://tenor.com/pt-BR/view/bills-ugh-gif-9811803164280522639"/>
-
-<div>
-  <a href="https://tenor.com/view/bills-ugh-gif-9811803164280522639">Bills Ugh GIF</a>from <a href="https://tenor.com/search/bills+ugh-gifs">Bills Ugh GIFs</a>
-</div>
-**
-
 <div>
 <a href="https://instagram.com/bufft_alisson/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alisson-buffetti/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
