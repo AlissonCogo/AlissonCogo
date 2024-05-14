@@ -16,11 +16,16 @@
 
 <br>
   
-## Estou Aprendendo
+## 💻 Estou Aprendendo
 
 <br>
+<div style="display: inline_block"><br>
+<img align="center" height="30" width="40" src='https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg'>
+<img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
+<img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
+<img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" align="center"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="50" height="50" align="center"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" align="center" /> <img align="center" height="30" width="40" src='https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg'>
+</div>
 
 
 <br>
@@ -33,8 +38,9 @@
 
 <br>
 
-<div>
-<a href="https://instagram.com/bufft_alisson/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/alisson-buffetti/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## 🌐 Redes Sociais:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lissonCogoo/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bufft_alisson/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alisson-buffetti/)
+
 
