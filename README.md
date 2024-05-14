@@ -4,12 +4,12 @@
   
   ## Bem vindo ao meu perfil GitHub 👋
   
-- 🔭 I’m currently working on Elotech Gestão Pública
-- 
-- 🌱 I’m currently learning Data Analyst
+- 🔭 Trabalho atualmente na Elotech Gestão Pública
+  
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 
 
-## Estou aprendendo
+## I'm Learning
 
 
 <div>
